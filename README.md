@@ -1,5 +1,4 @@
-## Hi there 👋
-I’m trx, a developer focused on low-level systems, reverse engineering, and tooling.
+## Hi there 👋I’m trx, a developer focused on low-level systems, reverse engineering, and tooling.
 I enjoy tearing things apart to understand how they work, then rebuilding them cleaner and faster.
 
 I spend most of my time around:
@@ -20,5 +19,3 @@ Areas:
 - Reverse Engineering
 - Memory Manipulation
 - Custom Tooling
-- Automation
--->
