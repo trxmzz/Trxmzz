@@ -1,5 +1,4 @@
-## Hi there 👋I’m trx, a developer focused on low-level systems, reverse engineering, and tooling.
-I enjoy tearing things apart to understand how they work, then rebuilding them cleaner and faster.
+## Hi there 👋I’m trx, a developer focused on low-level systems, reverse engineering, and tooling. I like breaking things down to understand how they work, then rebuilding them in a cleaner and more efficient way.
 
 I spend most of my time around:
 
@@ -7,9 +6,9 @@ I spend most of my time around:
 - performance-sensitive code
 - custom tooling & loaders
 
-Tech Stack
+__Tech Stack__
 
-Languages:
+`Languages:
 - C
 - C++
 - Python
@@ -18,4 +17,4 @@ Languages:
 Areas:
 - Reverse Engineering
 - Memory Manipulation
-- Custom Tooling
+- Custom Tooling`
