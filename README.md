@@ -1,16 +1,26 @@
 ## Hi there 👋
 
 <!--
-**trxmzz/Trxmzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m trx, a developer focused on low-level systems, reverse engineering, and tooling.
+I enjoy tearing things apart to understand how they work, then rebuilding them cleaner and faster.
 
-Here are some ideas to get you started:
+I spend most of my time around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- memory internals
+- performance-sensitive code
+- custom tooling & loaders
+
+Tech Stack
+
+Languages:
+- C
+- C++
+- Python
+- HTML / CSS
+
+Areas:
+- Reverse Engineering
+- Memory Manipulation
+- Custom Tooling
+- Automation
 -->
