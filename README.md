@@ -7,7 +7,6 @@ I spend most of my time around:
 - performance-sensitive code
 - custom tooling & loaders
 
-__Tech Stack__
 
 
 Languages:
