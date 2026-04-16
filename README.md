@@ -1,12 +1,4 @@
-## Hi there 👋 I’m Trx
-Hi im Trx a developer focused on low-level systems, reverse engineering, and tooling.
-
-I spend most of my time around:
-
-- memory internals
-- performance-sensitive code
-- custom tooling & loaders
-
+working around Fortnite, spoofing, and ARC Raiders. Also active in Apex Legends, with Valorant coming soon.
 
 
 Languages:
@@ -14,8 +6,3 @@ Languages:
 - C++
 - Python
 - HTML / CSS
-
-Areas:
-- Reverse Engineering
-- Custom Tooling
-- Spoofer,Cheat Work.
